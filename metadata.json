@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Cyber Bird",
+  "description": "A cyberpunk-themed flappy bird style game set in space. Players have three lives to navigate a drone through obstacles, with the game speed gradually increasing.",
+  "requestFramePermissions": []
+}
